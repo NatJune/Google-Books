@@ -11,6 +11,6 @@ This is going to be a book finding application, it will allow users to find the 
 ## Wireframe/screenshots
 ![wireframe](./imgs/wireframe.png)
 ## Getting Started
-[Click here](https://ga-project.nataliej1.repl.co/) to get started
+[Click here](https://natjune.github.io/Google-Books-Project/) to get started
 ## Future Enhancements
 Change some font sizing and styling
