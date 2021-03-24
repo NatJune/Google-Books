@@ -9,7 +9,7 @@ This is going to be a book finding application, it will allow users to find the 
 - Google Books API
 - Google Fonts
 ## Wireframe/screenshots
-![wireframe](./imgs/wireframe.png)
+![wireframe](./img/wireframe.png)
 ## Getting Started
 [Click here](https://natjune.github.io/Google-Books-Project/) to get started
 ## Future Enhancements
